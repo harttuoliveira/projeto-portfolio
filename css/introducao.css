@@ -20,8 +20,8 @@
 .introducao h1::before {
   content: "";
   display: block;
-  width: 130px;
-  height: 100px;
+  width: 131px;
+  height: 102px;
   background: url("../img/detalhe.png") no-repeat center;
   position: absolute;
   top: -15px;
